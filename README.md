@@ -1,6 +1,15 @@
 # Astar
 Simple retro tunnel style blaster game while learning Rust/[Bevy](https://github.com/bevyengine/bevy)
 
+# Controls
+- Left/Right arrow keys to move
+- Spacebar to shoot
+- Powerups for health, more bullets and change of weapon
+
+Run with cargo run --release
+
+![](media/screenshot.png)
+
 # Credits
 ## Art
 - [Space Shooter art](https://opengameart.org/content/space-shooter-art) by [Kenney.nl](https://Kenney.nl) 
